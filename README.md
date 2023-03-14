@@ -1,4 +1,4 @@
-# Practica_4
+# Practica_04
 Modificar la práctica 03.
 1: Cargar procesos al programa.
  - Inicialmente leer los procesos del archivo como en la práctica pasada.
